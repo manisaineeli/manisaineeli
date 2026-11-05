@@ -1,200 +1,115 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/manisaineeli/manisaineeli/main/assets/profile_banner.png" width="100%" alt="Mani Sai Neeli"/>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · manisaineeli</sub></p>
+<h1>Neeli</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<br/>
+<p><a href="https://github.com/manisaineeli">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/194453791?u=a4879f6abc9f98968e3f303eb36381c51b1fec55&amp;v=4" width="180" alt="Neeli GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=39D98A&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mani+Sai+Neeli;AI+%26+Machine+Learning+Enthusiast;Building+Ideas+Into+Reality" alt="Typing introduction"/>
+<h2>What teams can evaluate quickly</h2>
 
-<p>
-  <a href="https://github.com/manisaineeli">
-    <img src="https://img.shields.io/badge/GitHub-Mani%20Sai%20Neeli-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
-  </a>
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-101820?style=for-the-badge&color=176B45"/>
-  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-101820?style=for-the-badge&color=176B45"/>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · TypeScript · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>17 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>176 contributions · 22 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>17</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>176</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=manisaineeli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194453791%3Fu%3Da4879f6abc9f98968e3f303eb36381c51b1fec55%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=manisaineeli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194453791%3Fu%3Da4879f6abc9f98968e3f303eb36381c51b1fec55%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Neeli GitHub proof metrics" />
+</picture>
 </p>
 
-</div>
+<h2>Selected work</h2>
 
----
-
-<table>
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
-
-### `> whoami`
-
-I'm a B.Tech student specialising in **Artificial Intelligence and Machine Learning**.
-
-- Exploring Machine Learning and Deep Learning.
-- Interested in Generative AI and LLMs.
-- Building practical software projects.
-- Improving my programming and problem-solving skills.
-- Open to internships and collaborations.
-
-</td>
-<td width="45%" valign="top">
-
-### `> current_focus`
-
-```python
-focus = [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Generative AI",
-    "LLMs",
-    "NLP",
-    "Computer Vision"
-]
-
-mindset = "Learn. Build. Improve."
-```
-
-</td>
-</tr>
-</table>
-
-## `01 / TECH STACK`
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css&theme=dark" />
-
-**AI / ML & Data**
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" />
-
-**Development & Tools**
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github,vscode&theme=dark" />
-
-</div>
-
-## `02 / FEATURED PROJECTS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>◈ FemCare</h3>
-
-A privacy-conscious menstrual health companion focused on cycle tracking, awareness and personal guidance.
-
-**Stack**
-
-`React` `Vite` `Tailwind CSS`
-
-<a href="https://github.com/manisaineeli/Femcare">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-176B45?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://manisaineeli.github.io/Femcare/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-101820?style=for-the-badge&logo=googlechrome&logoColor=39D98A"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>◈ ML Programs</h3>
-
-A practical collection of machine-learning exercises covering algorithms, preprocessing, data analysis and introductory NLP.
-
-**Stack**
-
-`Python` `NumPy` `Pandas` `Scikit-learn`
-
-<a href="https://github.com/manisaineeli/ML_PROGRAMS">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-176B45?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>◈ CommBank Goal Tracker</h3>
-
-A web development project exploring a goal-tracking interface and frontend implementation.
-
-**Focus**
-
-`Web Development` `UI` `Frontend`
-
-<a href="https://github.com/manisaineeli/CommBank-Web">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-176B45?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>◈ More Experiments</h3>
-
-Exploring ideas in AI, automation and software development.
-
-**Interests**
-
-`LLMs` `Generative AI` `Automation`
-
-<a href="https://github.com/manisaineeli?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-## `03 / DEVELOPER ACTIVITY`
-
-<div align="center">
-
-<a href="https://github.com/manisaineeli?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
-</a>
-<a href="https://github.com/manisaineeli?tab=stars">
-  <img src="https://img.shields.io/badge/STARRED%20PROJECTS-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
-</a>
-<a href="https://github.com/manisaineeli?tab=overview">
-  <img src="https://img.shields.io/badge/PROFILE%20OVERVIEW-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
-</a>
-
-<br/><br/>
-
-### `BUILD • COMMIT • REPEAT`
-
-<sub>Every commit is a step forward. Every project is a new experiment.</sub>
-
-</div>
-
-## `04 / CONTRIBUTION ACTIVITY`
-
-<div align="center">
-
+<td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manisaineeli/manisaineeli/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/manisaineeli/manisaineeli/output/github-snake.svg" width="100%" alt="Contribution snake"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=manisaineeli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194453791%3Fu%3Da4879f6abc9f98968e3f303eb36381c51b1fec55%26v%3D4&repos=manisaineeli%2Fmanisaineeli%2Cmanisaineeli%2FAPI-MS_Programs%2Cmanisaineeli%2FML_PROGRAMS%2Cmanisaineeli%2FSmart_Disease_Prediction_-ML-&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=manisaineeli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194453791%3Fu%3Da4879f6abc9f98968e3f303eb36381c51b1fec55%26v%3D4&repos=manisaineeli%2Fmanisaineeli%2Cmanisaineeli%2FAPI-MS_Programs%2Cmanisaineeli%2FML_PROGRAMS%2Cmanisaineeli%2FSmart_Disease_Prediction_-ML-&v=recruiter-projects-1&mode=dark" width="100%" alt="Neeli selected projects" />
 </picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/manisaineeli/manisaineeli">manisaineeli</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/manisaineeli/manisaineeli">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-</div>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/manisaineeli/API-MS_Programs">API-MS_Programs</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/manisaineeli/ML_PROGRAMS">ML_PROGRAMS</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/manisaineeli/Smart_Disease_Prediction_-ML-">Smart_Disease_Prediction_-ML-</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-## `05 / CONNECT`
+<h2>Technical toolkit</h2>
 
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=manisaineeli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194453791%3Fu%3Da4879f6abc9f98968e3f303eb36381c51b1fec55%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=manisaineeli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194453791%3Fu%3Da4879f6abc9f98968e3f303eb36381c51b1fec55%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Neeli technology stack" />
+</picture>
+</p>
 
-<a href="https://github.com/manisaineeli">
-  <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
-</a>
-<a href="https://github.com/manisaineeli?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
-</a>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>38% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>23% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>11% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>5% of public code</sub></td>
+</tr>
+</table>
 
-<br/><br/>
+<h2>Consistency signal</h2>
 
-<code>while (learning) { build(); experiment(); improve(); }</code>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=manisaineeli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194453791%3Fu%3Da4879f6abc9f98968e3f303eb36381c51b1fec55%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=manisaineeli&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F194453791%3Fu%3Da4879f6abc9f98968e3f303eb36381c51b1fec55%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Neeli contribution activity" />
+</picture>
+</p>
 
-<br/><br/>
+<hr />
 
-<sub>Designed with curiosity · Built with consistency</sub>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/manisaineeli">GitHub</a></td>
+</tr>
+</table>
 
-</div>
+<p align="center"><sub>Neeli · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
