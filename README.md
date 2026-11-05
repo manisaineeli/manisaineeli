@@ -96,3 +96,13 @@ Interested in **AI/ML, practical projects, internships and collaboration**.
 <sub><code>while (learning) { build(); experiment(); improve(); }</code></sub>
 
 </div>
+
+<!-- CONTRIBUTION SNAKE START -->
+<div align="center">
+  <h2>Contribution Activity</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manisaineeli/manisaineeli/output/github-snake-dark.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/manisaineeli/manisaineeli/output/github-snake.svg" width="100%">
+  </picture>
+</div>
+<!-- CONTRIBUTION SNAKE END -->
