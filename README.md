@@ -70,20 +70,12 @@ A web development project exploring a goal-tracking interface.
 
 ## > github_activity
 
-<div align="center">
+Explore my actual GitHub activity:
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manisaineeli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D98A&icon_color=39D98A&text_color=C9D1D9" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisaineeli&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D98A&text_color=C9D1D9" alt="Most used languages" />
+- [Contribution graph](https://github.com/manisaineeli)
+- [Public repositories](https://github.com/manisaineeli?tab=repositories)
+- [Recent activity](https://github.com/manisaineeli?tab=overview)
 
-</div>
-
-<div align="center">
-
-### Contribution trail
-
-<img src="https://raw.githubusercontent.com/manisaineeli/manisaineeli/output/github-snake-dark.svg" alt="GitHub contribution snake" />
-
-</div>
 
 ---
 
