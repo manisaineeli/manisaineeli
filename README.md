@@ -1,104 +1,120 @@
-<!-- PROFILE BANNER START -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/manisaineeli/manisaineeli/main/assets/profile_banner.png" width="100%" alt="Mani Sai Neeli - AI/ML Developer" />
-</div>
-<!-- PROFILE BANNER END -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=800&color=39D98A&center=true&vCenter=true&width=850&lines=Mani+Sai+Neeli;AI+%2F+ML+Developer+in+Progress;Building+Ideas+Into+Projects;Learning.+Experimenting.+Building." alt="Animated terminal introduction" />
+<img src="https://raw.githubusercontent.com/manisaineeli/manisaineeli/main/assets/profile_banner.png" width="100%" alt="Mani Sai Neeli"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/IDENTITY-AI%20%2F%20ML%20DEVELOPER-101820?style=for-the-badge&labelColor=101820&color=176B45" />
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-101820?style=for-the-badge&labelColor=101820&color=176B45" />
-<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-101820?style=for-the-badge&labelColor=101820&color=176B45" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=39D98A&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mani+Sai+Neeli;AI+%26+Machine+Learning+Enthusiast;Building+Ideas+Into+Reality" alt="Typing introduction"/>
+
+<p>
+  <a href="https://github.com/manisaineeli">
+    <img src="https://img.shields.io/badge/GitHub-Mani%20Sai%20Neeli-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
+  </a>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-101820?style=for-the-badge&color=176B45"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-101820?style=for-the-badge&color=176B45"/>
+</p>
 
 </div>
 
 ---
 
-## `01 // SYSTEM.IDENTITY`
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### `> whoami`
+
+I'm a B.Tech student specialising in **Artificial Intelligence and Machine Learning**.
+
+- Exploring Machine Learning and Deep Learning.
+- Interested in Generative AI and LLMs.
+- Building practical software projects.
+- Improving my programming and problem-solving skills.
+- Open to internships and collaborations.
+
+</td>
+<td width="45%" valign="top">
+
+### `> current_focus`
 
 ```python
-class Developer:
-    def __init__(self):
-        self.name = "Mani Sai Neeli"
-        self.education = "B.Tech - Artificial Intelligence & ML"
-        self.role = "Aspiring AI/ML Developer"
-        self.interests = [
-            "Machine Learning",
-            "Generative AI",
-            "Large Language Models",
-            "NLP & Computer Vision"
-        ]
-        self.mindset = "Learn -> Build -> Improve"
+focus = [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Generative AI",
+    "LLMs",
+    "NLP",
+    "Computer Vision"
+]
 
-    def current_goal(self):
-        return "Build practical technology that solves real problems"
+mindset = "Learn. Build. Improve."
 ```
 
-- 🎓 B.Tech student specialising in Artificial Intelligence and Machine Learning.
-- 🧠 Exploring AI, ML, Deep Learning and Generative AI.
-- 🛠️ Building projects to turn concepts into practical applications.
-- 🌱 Continuously improving programming and problem-solving skills.
-- 🤝 Interested in internships, collaboration and open-source learning.
+</td>
+</tr>
+</table>
 
-## `02 // TECH.ARSENAL`
+## `01 / TECH STACK`
 
 <div align="center">
 
-**PROGRAMMING LANGUAGES**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css&theme=dark" />
 
-**AI / ML & DATA**
+**AI / ML & Data**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" />
 
-**WEB DEVELOPMENT & TOOLS**
+**Development & Tools**
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github,vscode&theme=dark" />
 
 </div>
 
-## `03 // SELECTED.PROJECTS`
+## `02 / FEATURED PROJECTS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ FemCare
+<h3>◈ FemCare</h3>
 
-A privacy-conscious menstrual health companion focused on cycle tracking, health awareness and accessible personal guidance.
+A privacy-conscious menstrual health companion focused on cycle tracking, awareness and personal guidance.
 
-**Core technologies**
+**Stack**
 
 `React` `Vite` `Tailwind CSS`
 
-[↗ Repository](https://github.com/manisaineeli/Femcare)
+<a href="https://github.com/manisaineeli/Femcare">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-176B45?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-[↗ Live Demo](https://manisaineeli.github.io/Femcare/)
+<a href="https://manisaineeli.github.io/Femcare/">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-101820?style=for-the-badge&logo=googlechrome&logoColor=39D98A"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Machine Learning Programs
+<h3>◈ ML Programs</h3>
 
-A collection of practical ML exercises covering algorithms, preprocessing, data analysis and introductory NLP.
+A practical collection of machine-learning exercises covering algorithms, preprocessing, data analysis and introductory NLP.
 
-**Core technologies**
+**Stack**
 
 `Python` `NumPy` `Pandas` `Scikit-learn`
 
-[↗ Repository](https://github.com/manisaineeli/ML_PROGRAMS)
+<a href="https://github.com/manisaineeli/ML_PROGRAMS">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-176B45?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ CommBank Goal Tracker
+<h3>◈ CommBank Goal Tracker</h3>
 
 A web development project exploring a goal-tracking interface and frontend implementation.
 
@@ -106,85 +122,74 @@ A web development project exploring a goal-tracking interface and frontend imple
 
 `Web Development` `UI` `Frontend`
 
-[↗ Repository](https://github.com/manisaineeli/CommBank-Web)
+<a href="https://github.com/manisaineeli/CommBank-Web">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-176B45?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ More experiments
+<h3>◈ More Experiments</h3>
 
-Exploring new ideas in AI, software development and practical automation.
+Exploring ideas in AI, automation and software development.
 
-**Currently exploring**
+**Interests**
 
 `LLMs` `Generative AI` `Automation`
 
-[↗ Explore repositories](https://github.com/manisaineeli?tab=repositories)
+<a href="https://github.com/manisaineeli?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
+</a>
 
 </td>
 </tr>
 </table>
 
-## `04 // CURRENT.FOCUS`
-
-```text
-[01] Strengthening Python and ML fundamentals
-[02] Exploring LLMs and Generative AI
-[03] Learning practical AI application development
-[04] Building useful projects and improving code quality
-[05] Preparing for internships and technical opportunities
-```
-
-## `05 // GITHUB.ACTIVITY`
+## `03 / GITHUB ANALYTICS`
 
 <div align="center">
 
 <a href="https://github.com/manisaineeli">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manisaineeli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D98A&icon_color=39D98A&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manisaineeli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D98A&icon_color=39D98A&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
 </a>
-
 <a href="https://github.com/manisaineeli">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisaineeli&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D98A&text_color=C9D1D9" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisaineeli&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D98A&text_color=C9D1D9" alt="Top languages"/>
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=manisaineeli&theme=dark&hide_border=true&background=0D1117&ring=39D98A&fire=39D98A&currStreakLabel=39D98A" width="75%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=manisaineeli&theme=dark&hide_border=true&background=0D1117&ring=39D98A&fire=39D98A&currStreakLabel=39D98A" width="75%" alt="Contribution streak"/>
 
 </div>
 
-## `06 // CONTRIBUTION.MAP`
+## `04 / CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-<p><code>Generating contribution activity...</code></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manisaineeli/manisaineeli/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/manisaineeli/manisaineeli/output/github-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/manisaineeli/manisaineeli/output/github-snake.svg" width="100%" alt="Contribution snake"/>
 </picture>
 
 </div>
 
-## `07 // ESTABLISH.CONNECTION`
+## `05 / CONNECT`
 
 <div align="center">
 
-Interested in AI/ML projects, internships, collaboration and learning opportunities.
-
 <a href="https://github.com/manisaineeli">
-  <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=39D98A" />
+  <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
 </a>
 <a href="https://github.com/manisaineeli?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECTS-101820?style=for-the-badge&logo=github&logoColor=39D98A" />
+  <img src="https://img.shields.io/badge/Repositories-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
 </a>
 
 <br/><br/>
 
-<sub><code>while (curious) { learn(); build(); experiment(); improve(); }</code></sub>
+<code>while (learning) { build(); experiment(); improve(); }</code>
 
-<br/>
+<br/><br/>
 
-<sub>Designed with curiosity. Built with consistency.</sub>
+<sub>Designed with curiosity · Built with consistency</sub>
 
 </div>
