@@ -1,3 +1,9 @@
+<!-- PROFILE BANNER START -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/manisaineeli/manisaineeli/main/assets/profile_banner.png" width="100%" alt="Mani Sai Neeli - AI/ML Developer" />
+</div>
+<!-- PROFILE BANNER END -->
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=39D98A&center=true&vCenter=true&width=750&lines=Mani+Sai+Neeli;AI+%26+Machine+Learning+Enthusiast;Learning.+Building.+Improving." alt="Animated introduction" />
