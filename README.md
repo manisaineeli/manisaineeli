@@ -145,20 +145,25 @@ Exploring ideas in AI, automation and software development.
 </tr>
 </table>
 
-## `03 / GITHUB ANALYTICS`
+## `03 / DEVELOPER ACTIVITY`
 
 <div align="center">
 
-<a href="https://github.com/manisaineeli">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manisaineeli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D98A&icon_color=39D98A&text_color=C9D1D9&rank_icon=github" alt="GitHub stats"/>
+<a href="https://github.com/manisaineeli?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
 </a>
-<a href="https://github.com/manisaineeli">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisaineeli&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D98A&text_color=C9D1D9" alt="Top languages"/>
+<a href="https://github.com/manisaineeli?tab=stars">
+  <img src="https://img.shields.io/badge/STARRED%20PROJECTS-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
+</a>
+<a href="https://github.com/manisaineeli?tab=overview">
+  <img src="https://img.shields.io/badge/PROFILE%20OVERVIEW-101820?style=for-the-badge&logo=github&logoColor=39D98A"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=manisaineeli&theme=dark&hide_border=true&background=0D1117&ring=39D98A&fire=39D98A&currStreakLabel=39D98A" width="75%" alt="Contribution streak"/>
+### `BUILD • COMMIT • REPEAT`
+
+<sub>Every commit is a step forward. Every project is a new experiment.</sub>
 
 </div>
 
