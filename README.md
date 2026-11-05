@@ -6,103 +6,185 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=39D98A&center=true&vCenter=true&width=750&lines=Mani+Sai+Neeli;AI+%26+Machine+Learning+Enthusiast;Learning.+Building.+Improving." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=800&color=39D98A&center=true&vCenter=true&width=850&lines=Mani+Sai+Neeli;AI+%2F+ML+Developer+in+Progress;Building+Ideas+Into+Projects;Learning.+Experimenting.+Building." alt="Animated terminal introduction" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20ML-101820?style=for-the-badge&labelColor=101820&color=245C43" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-101820?style=for-the-badge&labelColor=101820&color=245C43" />
+<img src="https://img.shields.io/badge/IDENTITY-AI%20%2F%20ML%20DEVELOPER-101820?style=for-the-badge&labelColor=101820&color=176B45" />
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-101820?style=for-the-badge&labelColor=101820&color=176B45" />
+<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-101820?style=for-the-badge&labelColor=101820&color=176B45" />
 
 </div>
 
 ---
 
-## > whoami
+## `01 // SYSTEM.IDENTITY`
 
-I'm a **BTech student specialising in Artificial Intelligence and Machine Learning**, passionate about building practical software and exploring how AI can solve real-world problems.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Mani Sai Neeli"
+        self.education = "B.Tech - Artificial Intelligence & ML"
+        self.role = "Aspiring AI/ML Developer"
+        self.interests = [
+            "Machine Learning",
+            "Generative AI",
+            "Large Language Models",
+            "NLP & Computer Vision"
+        ]
+        self.mindset = "Learn -> Build -> Improve"
 
-- Exploring Machine Learning, Generative AI, LLMs, NLP and Computer Vision.
-- Strengthening my Python and software development foundations.
-- Learning by building projects and experimenting with new technologies.
-- Open to internships, collaborations and opportunities to grow.
+    def current_goal(self):
+        return "Build practical technology that solves real problems"
+```
 
-## > featured_projects
+- 🎓 B.Tech student specialising in Artificial Intelligence and Machine Learning.
+- 🧠 Exploring AI, ML, Deep Learning and Generative AI.
+- 🛠️ Building projects to turn concepts into practical applications.
+- 🌱 Continuously improving programming and problem-solving skills.
+- 🤝 Interested in internships, collaboration and open-source learning.
 
-### 01 / FemCare
-A privacy-conscious menstrual health companion focused on accessible health awareness, cycle tracking and personal guidance.
-
-**Tech:** React · Vite · Tailwind CSS
-
-[Repository](https://github.com/manisaineeli/Femcare) · [Live demo](https://manisaineeli.github.io/Femcare/)
-
-### 02 / Machine Learning Programs
-Practical machine-learning exercises covering data preprocessing, foundational algorithms and introductory NLP.
-
-**Topics:** Python · NumPy · Pandas · Regression · KNN · SVM · Random Forest
-
-[Repository](https://github.com/manisaineeli/ML_PROGRAMS)
-
-### 03 / CommBank Goal Tracker
-A web development project exploring a goal-tracking interface.
-
-[Repository](https://github.com/manisaineeli/CommBank-Web)
-
-## > tech_stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-101820?style=flat-square&logo=python&logoColor=39D98A)
-![C](https://img.shields.io/badge/C-101820?style=flat-square&logo=c&logoColor=39D98A)
-![C++](https://img.shields.io/badge/C%2B%2B-101820?style=flat-square&logo=cplusplus&logoColor=39D98A)
-![SQL](https://img.shields.io/badge/SQL-101820?style=flat-square&logo=postgresql&logoColor=39D98A)
-![JavaScript](https://img.shields.io/badge/JavaScript-101820?style=flat-square&logo=javascript&logoColor=39D98A)
-
-**AI / ML and Data**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-101820?style=flat-square&logo=scikitlearn&logoColor=39D98A)
-![NumPy](https://img.shields.io/badge/NumPy-101820?style=flat-square&logo=numpy&logoColor=39D98A)
-![Pandas](https://img.shields.io/badge/Pandas-101820?style=flat-square&logo=pandas&logoColor=39D98A)
-
-**Web and Tools**
-
-![HTML5](https://img.shields.io/badge/HTML5-101820?style=flat-square&logo=html5&logoColor=39D98A)
-![CSS3](https://img.shields.io/badge/CSS3-101820?style=flat-square&logo=css3&logoColor=39D98A)
-![React](https://img.shields.io/badge/React-101820?style=flat-square&logo=react&logoColor=39D98A)
-![Vite](https://img.shields.io/badge/Vite-101820?style=flat-square&logo=vite&logoColor=39D98A)
-![Git](https://img.shields.io/badge/Git-101820?style=flat-square&logo=git&logoColor=39D98A)
-![GitHub](https://img.shields.io/badge/GitHub-101820?style=flat-square&logo=github&logoColor=39D98A)
-
----
-
-## > github_activity
-
-Explore my actual GitHub activity:
-
-- [Contribution graph](https://github.com/manisaineeli)
-- [Public repositories](https://github.com/manisaineeli?tab=repositories)
-- [Recent activity](https://github.com/manisaineeli?tab=overview)
-
-
----
-
-## > connect
-
-Interested in **AI/ML, practical projects, internships and collaboration**.
-
-[GitHub Profile](https://github.com/manisaineeli) · [Explore Repositories](https://github.com/manisaineeli?tab=repositories)
+## `02 // TECH.ARSENAL`
 
 <div align="center">
 
-<sub><code>while (learning) { build(); experiment(); improve(); }</code></sub>
+**PROGRAMMING LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css&theme=dark" />
+
+**AI / ML & DATA**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pytorch&theme=dark" />
+
+**WEB DEVELOPMENT & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github,vscode&theme=dark" />
 
 </div>
 
-<!-- CONTRIBUTION SNAKE START -->
+## `03 // SELECTED.PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ FemCare
+
+A privacy-conscious menstrual health companion focused on cycle tracking, health awareness and accessible personal guidance.
+
+**Core technologies**
+
+`React` `Vite` `Tailwind CSS`
+
+[↗ Repository](https://github.com/manisaineeli/Femcare)
+
+[↗ Live Demo](https://manisaineeli.github.io/Femcare/)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Machine Learning Programs
+
+A collection of practical ML exercises covering algorithms, preprocessing, data analysis and introductory NLP.
+
+**Core technologies**
+
+`Python` `NumPy` `Pandas` `Scikit-learn`
+
+[↗ Repository](https://github.com/manisaineeli/ML_PROGRAMS)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ CommBank Goal Tracker
+
+A web development project exploring a goal-tracking interface and frontend implementation.
+
+**Focus**
+
+`Web Development` `UI` `Frontend`
+
+[↗ Repository](https://github.com/manisaineeli/CommBank-Web)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ More experiments
+
+Exploring new ideas in AI, software development and practical automation.
+
+**Currently exploring**
+
+`LLMs` `Generative AI` `Automation`
+
+[↗ Explore repositories](https://github.com/manisaineeli?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## `04 // CURRENT.FOCUS`
+
+```text
+[01] Strengthening Python and ML fundamentals
+[02] Exploring LLMs and Generative AI
+[03] Learning practical AI application development
+[04] Building useful projects and improving code quality
+[05] Preparing for internships and technical opportunities
+```
+
+## `05 // GITHUB.ACTIVITY`
+
 <div align="center">
-  <h2>Contribution Activity</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manisaineeli/manisaineeli/output/github-snake-dark.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/manisaineeli/manisaineeli/output/github-snake.svg" width="100%">
-  </picture>
+
+<a href="https://github.com/manisaineeli">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manisaineeli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D98A&icon_color=39D98A&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/manisaineeli">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisaineeli&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D98A&text_color=C9D1D9" alt="Most used languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=manisaineeli&theme=dark&hide_border=true&background=0D1117&ring=39D98A&fire=39D98A&currStreakLabel=39D98A" width="75%" alt="GitHub contribution streak" />
+
 </div>
-<!-- CONTRIBUTION SNAKE END -->
+
+## `06 // CONTRIBUTION.MAP`
+
+<div align="center">
+
+<p><code>Generating contribution activity...</code></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manisaineeli/manisaineeli/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/manisaineeli/manisaineeli/output/github-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+</picture>
+
+</div>
+
+## `07 // ESTABLISH.CONNECTION`
+
+<div align="center">
+
+Interested in AI/ML projects, internships, collaboration and learning opportunities.
+
+<a href="https://github.com/manisaineeli">
+  <img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=39D98A" />
+</a>
+<a href="https://github.com/manisaineeli?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-101820?style=for-the-badge&logo=github&logoColor=39D98A" />
+</a>
+
+<br/><br/>
+
+<sub><code>while (curious) { learn(); build(); experiment(); improve(); }</code></sub>
+
+<br/>
+
+<sub>Designed with curiosity. Built with consistency.</sub>
+
+</div>
